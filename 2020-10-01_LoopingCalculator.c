@@ -10,5 +10,6 @@ Last Modified: 07OCT20
 
 int main() {
    printf("\n2020-10-01_LoopingCalculator is alive!\n\n");
+   printf("Hello World");
    return 0;
 }
